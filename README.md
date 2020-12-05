@@ -1,2 +1,2 @@
-# Learn-Python-the-hard-way
-My work on all the exercises
+# Python and Me
+These are some of my code samples
